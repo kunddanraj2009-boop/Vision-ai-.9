@@ -1,0 +1,11 @@
+{
+  "name": "USE VISION AI - Advanced Multifunctional Assistant",
+  "description": "A futuristic mobile-first AI assistant featuring voice control (English & Hindi), Vision AI object tracking, Face intelligence, MediaPipe gesture recognition, Smart OCR, Hardware Hub (ESP32/Bluetooth/Serial), Health AI sensors, Memory Vault, and Gemini AI brain.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
